@@ -1,0 +1,14 @@
+[
+    {
+        "id": 158,
+        "buildTypeId": "YouToo_QualityAssurance",
+        "number": "5",
+        "status": "SUCCESS",
+        "state": "finished",
+        "branchName": "trunk",
+        "defaultBranch": true,
+        "href": "/app/rest/builds/id:158",
+        "webUrl": "https://ci.minteck.org/viewLog.html?buildId=158&buildTypeId=YouToo_QualityAssurance",
+        "finishOnAgentDate": "20220412T145554+0200"
+    }
+]

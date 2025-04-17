@@ -1,0 +1,240 @@
+[
+    {
+        "id": "_Root",
+        "name": "<Root project>",
+        "description": "Contains all other projects",
+        "href": "/app/rest/projects/id:_Root",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=_Root"
+    },
+    {
+        "id": "AlicornDe",
+        "name": "Alicorn DE",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:AlicornDe",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=AlicornDe"
+    },
+    {
+        "id": "Argon",
+        "name": "Argon",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Argon",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Argon"
+    },
+    {
+        "id": "Argon3pAD",
+        "name": "Argon 3pAD",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Argon3pAD",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Argon3pAD"
+    },
+    {
+        "id": "CloudburstSystemSWebsite",
+        "name": "Cloudburst System's Website",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:CloudburstSystemSWebsite",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=CloudburstSystemSWebsite"
+    },
+    {
+        "id": "Cobalt",
+        "name": "Cobalt",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Cobalt",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Cobalt"
+    },
+    {
+        "id": "Ember",
+        "name": "Ember",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Ember",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Ember"
+    },
+    {
+        "id": "Familine",
+        "name": "Familine",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Familine",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine"
+    },
+    {
+        "id": "Familine_FamilineCdn",
+        "name": "CDN",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilineCdn",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilineCdn"
+    },
+    {
+        "id": "Familine_Core",
+        "name": "Core",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_Core",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_Core"
+    },
+    {
+        "id": "Familine_Desktop",
+        "name": "Desktop",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_Desktop",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_Desktop"
+    },
+    {
+        "id": "Familine_FamilineGenealogy",
+        "name": "Genealogy",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilineGenealogy",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilineGenealogy"
+    },
+    {
+        "id": "Familine_FamilineHelp",
+        "name": "Help",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilineHelp",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilineHelp"
+    },
+    {
+        "id": "Familine_FamilineMedia",
+        "name": "Media",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilineMedia",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilineMedia"
+    },
+    {
+        "id": "Familine_Movies",
+        "name": "Movies",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_Movies",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_Movies"
+    },
+    {
+        "id": "Familine_FamilinePlanning",
+        "name": "Planning",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilinePlanning",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilinePlanning"
+    },
+    {
+        "id": "Familine_FamilinePublicIntroductions",
+        "name": "Public Introduction",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilinePublicIntroductions",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilinePublicIntroductions"
+    },
+    {
+        "id": "Familine_FamilineSessionManager",
+        "name": "Session Manager",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_FamilineSessionManager",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_FamilineSessionManager"
+    },
+    {
+        "id": "Familine_Share",
+        "name": "Share",
+        "parentProjectId": "Familine",
+        "href": "/app/rest/projects/id:Familine_Share",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Familine_Share"
+    },
+    {
+        "id": "Foxperson",
+        "name": "Foxperson",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Foxperson",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Foxperson"
+    },
+    {
+        "id": "Neutron",
+        "name": "Neutron",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Neutron",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Neutron"
+    },
+    {
+        "id": "Ponyfind",
+        "name": "Ponyfind",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Ponyfind",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Ponyfind"
+    },
+    {
+        "id": "Rainbow",
+        "name": "Rainbow",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Rainbow",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Rainbow"
+    },
+    {
+        "id": "Voicer",
+        "name": "Voicer",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:Voicer",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Voicer"
+    },
+    {
+        "id": "PonyMinteckOrg",
+        "name": "pony.minteck.org",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:PonyMinteckOrg",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=PonyMinteckOrg"
+    },
+    {
+        "id": "RPlaceArchive",
+        "name": "r/place Archive",
+        "parentProjectId": "_Root",
+        "href": "/app/rest/projects/id:RPlaceArchive",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=RPlaceArchive"
+    },
+    {
+        "id": "AutoDocs",
+        "name": "AutoDocs",
+        "parentProjectId": "_Root",
+        "archived": true,
+        "href": "/app/rest/projects/id:AutoDocs",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=AutoDocs"
+    },
+    {
+        "id": "Snowjail",
+        "name": "Snowjail",
+        "parentProjectId": "_Root",
+        "archived": true,
+        "href": "/app/rest/projects/id:Snowjail",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=Snowjail"
+    },
+    {
+        "id": "TwilightPackageManager",
+        "name": "Twilight Package Manager",
+        "parentProjectId": "_Root",
+        "archived": true,
+        "href": "/app/rest/projects/id:TwilightPackageManager",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=TwilightPackageManager"
+    },
+    {
+        "id": "TwilightPackageManager_ClientApplication",
+        "name": "Client Application",
+        "parentProjectId": "TwilightPackageManager",
+        "archived": true,
+        "href": "/app/rest/projects/id:TwilightPackageManager_ClientApplication",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=TwilightPackageManager_ClientApplication"
+    },
+    {
+        "id": "TwilightPackageManager_SetupUtility",
+        "name": "Setup Utility",
+        "parentProjectId": "TwilightPackageManager",
+        "archived": true,
+        "href": "/app/rest/projects/id:TwilightPackageManager_SetupUtility",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=TwilightPackageManager_SetupUtility"
+    },
+    {
+        "id": "WolfEye",
+        "name": "WolfEye",
+        "parentProjectId": "_Root",
+        "archived": true,
+        "href": "/app/rest/projects/id:WolfEye",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=WolfEye"
+    },
+    {
+        "id": "YouToo",
+        "name": "YouToo",
+        "parentProjectId": "_Root",
+        "archived": true,
+        "href": "/app/rest/projects/id:YouToo",
+        "webUrl": "https://ci.minteck.org/project.html?projectId=YouToo"
+    }
+]
